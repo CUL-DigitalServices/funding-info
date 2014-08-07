@@ -1,0 +1,11 @@
+{
+  "name": "funding-info",
+  "version": "0.0.1",
+  "dependencies": {
+    "fast-csv": "latest",
+    "minimist": "latest"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}
